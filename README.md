@@ -8,4 +8,6 @@ python -m venv venv
 pip install -r requirements.txt
 
 ## Dataset
-El dataset 2020-Apr.csv ponlo en la raiz
+El dataset 2020-Apr.csv ponlo en la raiz.
+
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
