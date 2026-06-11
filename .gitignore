@@ -1,0 +1,6 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Dataset
+2020-Apr.csv
